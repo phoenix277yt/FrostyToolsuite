@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a title="Discord Server" href="https://discord.gg/nrq7G5Q9">
+  <a title="Discord Server" href="https://discord.gg/wsMAv2JZRv">
     <img alt="Discord Server" src="https://img.shields.io/discord/333086156478480384?color=green&label=DISCORD&logo=discord&logoColor=white">
   </a>
   <a title="Total Downloads" href="https://github.com/CadeEvs/FrostyToolsuite/releases/latest">
